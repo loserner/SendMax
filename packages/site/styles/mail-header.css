@@ -1,0 +1,8 @@
+.mailHeaderTop {
+  display: flex;
+  align-items: center;
+}
+
+.mailHeaderBottom {
+  margin-top: 12px;
+}
