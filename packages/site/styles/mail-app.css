@@ -1,0 +1,35 @@
+.mailApp {
+  background-color: #f6f8fc;
+  width: 100%;
+  min-height: 100vh;
+}
+
+.mailBody {
+  display: flex;
+  width: 100%;
+}
+
+.mailContent {
+  width: 100%;
+  margin: 20px;
+  padding: 20px 20px 0 20px;
+  border-radius: 20px;
+  background-color: #fff;
+}
+
+
+.toast {
+  background-color: var(--background-color) !important;
+  color: var(--text-color) !important;
+  margin-bottom: 20px;
+  font-family: '';
+}
+
+.toast div:first-child div {
+  height: 18px;
+  width: 18px;
+}
+
+.toast div:last-child {
+  padding-top: 0 !important;
+}
